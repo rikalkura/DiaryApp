@@ -1,1 +1,1 @@
-# Diary
+# Diary Pet project
