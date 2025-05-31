@@ -1,1 +1,1 @@
-# Diary Pet project
+# Diary MVC Pet project
